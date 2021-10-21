@@ -1,0 +1,12 @@
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Herencia2\HerenciaLibrary1\bin\Debug\net5.0\HerenciaLibrary1.deps.json
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Herencia2\HerenciaLibrary1\bin\Debug\net5.0\HerenciaLibrary1.dll
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Herencia2\HerenciaLibrary1\bin\Debug\net5.0\ref\HerenciaLibrary1.dll
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Herencia2\HerenciaLibrary1\bin\Debug\net5.0\HerenciaLibrary1.pdb
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Herencia2\HerenciaLibrary1\obj\Debug\net5.0\HerenciaLibrary1.csprojAssemblyReference.cache
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Herencia2\HerenciaLibrary1\obj\Debug\net5.0\HerenciaLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Herencia2\HerenciaLibrary1\obj\Debug\net5.0\HerenciaLibrary1.AssemblyInfoInputs.cache
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Herencia2\HerenciaLibrary1\obj\Debug\net5.0\HerenciaLibrary1.AssemblyInfo.cs
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Herencia2\HerenciaLibrary1\obj\Debug\net5.0\HerenciaLibrary1.csproj.CoreCompileInputs.cache
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Herencia2\HerenciaLibrary1\obj\Debug\net5.0\HerenciaLibrary1.dll
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Herencia2\HerenciaLibrary1\obj\Debug\net5.0\ref\HerenciaLibrary1.dll
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Herencia2\HerenciaLibrary1\obj\Debug\net5.0\HerenciaLibrary1.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HerenciaApp1/1.0.0": {
+        "dependencies": {
+          "HerenciaLibrary1": "1.0.0"
+        },
+        "runtime": {
+          "HerenciaApp1.dll": {}
+        }
+      },
+      "HerenciaLibrary1/1.0.0": {
+        "runtime": {
+          "HerenciaLibrary1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HerenciaApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HerenciaLibrary1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
